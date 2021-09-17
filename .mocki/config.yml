@@ -6,4 +6,4 @@ endpoints:
   method: get
   responses: - statusCode: 200
   body:
-  message: Hello from Mocki!
+  message: Hello 2 from Mocki!
